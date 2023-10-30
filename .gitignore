@@ -19959,3 +19959,4 @@ env/share/doc/networkx-3.0/examples/subclass/README.txt
 env/share/doc/networkx-3.0/examples/subclass/__pycache__/plot_antigraph.cpython-310.pyc
 env/share/doc/networkx-3.0/examples/subclass/__pycache__/plot_printgraph.cpython-310.pyc
 env/share/man/man1/isympy.1
+.vscode/launch.json
